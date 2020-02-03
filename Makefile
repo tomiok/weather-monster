@@ -37,4 +37,4 @@ lint:
 test:
 	@clear
 	@go test -v ./...
-
+# *_test.go
