@@ -42,28 +42,3 @@ and `go mod vendor` to use the vendor folder.
 * no dockerfile since is not deployed yet
 
 * no godocs for the PoC
-
-============================
-
-	golang course
-	
-
-	* Que problemas nos resuelve GO? 
-
-
-	- Standard library muy efectiva, amplia, escalable (http, zip, file system, OS, acceso a hardware, syscalls, etc).
-	- Sysntaxis reducida, lo que lo hace facil para aprender (25 palabras reservadas, 53 tiene Java 1.11).
-	- No es necesario descargar nada para su uso web, o de file system por ejemplo, todo está contenido en su runtime.
-	- Muchas herramientas incluidas en su runtime, fmt (formato para identacion del codigo), build, run, test entre otras.
-	- Facil descarga de dependencias con go get
-	- Go playground
-	- Facil manejo de dependencias con go mod (go modules)
-	- Aplicaciones web (APIS, webs SSR server side rendering), backend, server-side rendering con template engine integrado, machine learning, big data, juegos (se vienen videos :D)
-	- Tipos primitivos de concurrencia
-	- Comunidad activa
-	- Releases continuos (14 en 10.3 años)
-
-
-	https://golang.org/cmd/go/
-	
-	https://tour.golang.org/
