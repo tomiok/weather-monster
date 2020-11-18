@@ -26,6 +26,8 @@ in env variables (DB_USER and DB_PASS). Otherwise username root and password roo
 
 - run the project with the command `make web` and by default uses port 9000
 
+- Docker TBD
+
 ------------------------------------------------------
 - the dependencies management is from go mods, use `go mod tidy` to set up the dependencies
 and `go mod vendor` to use the vendor folder.
