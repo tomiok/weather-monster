@@ -4,7 +4,7 @@
 ### Simple REST API in Golang
 
 #### uses
-* Go 1.13
+* Go 1.15
 * Go mods
 * go-chi
 * database sql and go sql driver
